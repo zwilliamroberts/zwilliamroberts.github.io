@@ -1,5 +1,3 @@
-# Business Central Consulting and Development
-
 Senior, hands-on support for Microsoft Dynamics 365 Business Central.
 
 ## What I Do
