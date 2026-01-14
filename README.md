@@ -1,5 +1,4 @@
-
-## Senior, hands-on support for Microsoft Dynamics 365 Business Central.
+Senior, hands-on support for Microsoft Dynamics 365 Business Central.
 
 ## Focus
 
