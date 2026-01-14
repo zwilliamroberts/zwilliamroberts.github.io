@@ -25,6 +25,7 @@ As AI accelerates development, many failures now come from solving the wrong pro
 
 - Fixed-scope quoted work  
 - Time-boxed blocks of hours  
+- Monthly retainer for review, validation, and escalation support  
 - Time and materials (T&M)  
 
 ## Contact
