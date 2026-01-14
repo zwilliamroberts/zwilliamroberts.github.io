@@ -1,10 +1,12 @@
-# Zachary Roberts
+---
+title: Zachary Roberts
+---
 
 Senior, hands-on support for Microsoft Dynamics 365 Business Central.
 
 ## Focus
 
-As AI accelerates development, many failures now come from solving the wrong problem convincingly. I focus on validating domain correctness, data ownership, and test relevance in AI-assisted codebases—particularly in ERP and financial systems where failure tolerance is low.
+As AI accelerates development, many failures now come from solving the wrong problem convincingly. I focus on validating domain correctness, data ownership, and test relevance in AI-assisted codebases where failure tolerance is low.
 
 ## What I Do
 
