@@ -2,7 +2,7 @@ Senior, hands-on support for Microsoft Dynamics 365 Business Central.
 
 ## Focus
 
-As AI accelerates development, many failures now come from solving the wrong problem convincingly. I focus on validating domain correctness, data ownership, and test relevance in AI-assisted codebases where failure tolerance is low.
+As AI accelerates development, many failures now come from solving the wrong problem convincingly. I focus on validating domain correctness, data ownership, and test relevance in AI-assisted codebases where failure tolerance is low—and where systems can appear correct while producing the wrong outcomes.
 
 ## What I Do
 
@@ -12,14 +12,15 @@ As AI accelerates development, many failures now come from solving the wrong pro
 - CI/CD pipeline automation and hardening  
 - Test automation and testing standards  
 - Break/fix troubleshooting and escalation support  
-- Code review and domain-level validation for AI-assisted development  
+- Code review, logic interrogation, and domain-level validation for AI-assisted development  
 
 ## How I Add Value
 
 - Identify mismatches between acceptance criteria and the actual Business Central data model  
 - Detect spurious or misleading tests that validate implementation details instead of business outcomes  
-- Reduce rework by catching domain errors before they ship behind passing builds  
-- Provide senior technical oversight in environments with accelerated, AI-assisted development  
+- Diagnose systems that pass builds and tests but violate domain or financial invariants  
+- Reduce rework and downstream risk by catching domain errors before they ship behind apparent correctness  
+- Provide senior technical oversight in environments with accelerated, AI-assisted delivery  
 
 ## Engagement Models
 
