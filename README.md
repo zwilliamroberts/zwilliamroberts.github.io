@@ -1,5 +1,8 @@
 # Zachary Roberts
+
 Senior, hands-on support for Microsoft Dynamics 365 Business Central.
+
+As AI accelerates development, many failures now come from solving the wrong problem convincingly. I focus on validating domain correctness, data ownership, and test relevance in AI-assisted codebases—particularly in ERP and financial systems where failure tolerance is low.
 
 ## What I Do
 
@@ -9,7 +12,14 @@ Senior, hands-on support for Microsoft Dynamics 365 Business Central.
 - CI/CD pipeline automation and hardening  
 - Test automation and testing standards  
 - Break/fix troubleshooting and escalation support  
-- Code reviews and technical advisory  
+- Code review and domain-level validation for AI-assisted development  
+
+## How I Add Value
+
+- Identify mismatches between acceptance criteria and the actual Business Central data model  
+- Detect spurious or misleading tests that validate implementation details instead of business outcomes  
+- Reduce rework by catching domain errors before they ship behind passing builds  
+- Provide senior technical oversight in environments with accelerated, AI-assisted development  
 
 ## Engagement Models
 
