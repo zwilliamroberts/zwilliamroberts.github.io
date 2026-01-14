@@ -18,9 +18,10 @@ As AI accelerates development, many failures now come from solving the wrong pro
 
 - Identify mismatches between acceptance criteria and the actual Business Central data model  
 - Detect spurious or misleading tests that validate implementation details instead of business outcomes  
-- Diagnose systems that pass builds and tests but violate domain or financial invariants  
+- Diagnose systems that pass builds and tests but violate domain or financial invariants due to misframed assumptions  
 - Reduce rework and downstream risk by catching domain errors before they ship behind apparent correctness  
 - Provide senior technical oversight in environments with accelerated, AI-assisted delivery  
+- Investigate non-linear failure modes by reconstructing procedural causality and business constraints when symptoms and causes are decoupled
 
 ## Engagement Models
 
