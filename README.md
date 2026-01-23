@@ -19,7 +19,7 @@ Specialized Business Central technical capacity on a white-label or subcontracto
 
 - Multi-company consolidations with historical ledger preservation
 - Entry number conflict resolution across acquired entities  
-- Legacy ERP migrations (NAV, GP, custom systems) to Business Central
+- Legacy ERP migrations from any OLAP or ODBC data source to Business Central (NAV, GP, custom systems, homegrown ERPs)
 - Custom migration tooling reducing typical timelines by 50-75%
 
 ### Integration & Development
@@ -54,11 +54,13 @@ Specialized Business Central technical capacity on a white-label or subcontracto
 
 ## Why Partners Work With Me
 
-**No Competitive Threat** – I don't pursue managed services business or compete for your clients. I refer ongoing support back to you.
+**Financial + Technical Expertise** – Finance degree combined with 8 years of BC development experience. I understand both the accounting requirements AND the technical implementation, and can speak directly with CFOs and controllers about financial integrity, audit trails, and compliance requirements.
 
-**Proven Expertise** – 8 years of Business Central experience with sophisticated migration tooling and repeatable methodologies for complex scenarios.
+**No Competitive Threat** – I don't pursue managed services business or compete for your clients. I'm a technical resource, not a rival. I refer ongoing support back to you.
 
-**Reliable Delivery** – Projects completed on timeline with comprehensive validation frameworks that catch issues before go-live.
+**Proven Migration Expertise** – Sophisticated migration tooling that handles any OLAP or ODBC data source, with repeatable methodologies for complex multi-entity consolidations that preserve both technical integrity and financial audit trails.
+
+**Reliable Delivery** – Projects completed on timeline with comprehensive validation frameworks that catch both technical and financial errors before go-live.
 
 **Quality Standards** – Defensive design patterns, proper documentation, and maintainable code your team can support long-term.
 
@@ -66,8 +68,8 @@ Specialized Business Central technical capacity on a white-label or subcontracto
 
 ## Typical Partner Scenarios
 
-✓ PE-backed client acquiring 10+ companies needing consolidated financials  
-✓ Complex NAV-to-BC migration with extensive customizations and historical data  
+✓ PE-backed client acquiring multiple companies needing consolidated financials with clean audit trails  
+✓ Complex legacy ERP migration from custom or homegrown systems to Business Central  
 ✓ Integration project requiring deep .NET/Azure expertise your team doesn't have  
 ✓ Performance emergency requiring database-level investigation and index optimization  
 ✓ AppSource application development for vertical-specific solution  
@@ -75,12 +77,14 @@ Specialized Business Central technical capacity on a white-label or subcontracto
 
 ## Experience Highlights
 
-- Multi-company ledger consolidations across multiple acquired entities
-- Custom migration tooling for entry number conflict resolution and referential integrity
-- AppSource application development and modular architecture design
-- Complex API integrations with external financial and operational systems
-- Azure deployment pipeline automation for Business Central extensions
-- Emergency database performance troubleshooting and optimization
+- Finance degree with 8 years of Business Central development—bridges the gap between accounting requirements and technical implementation
+- Multi-entity consolidations typically involving 2-3 acquired companies with full historical ledger preservation
+- Custom migration tooling that extracts from any OLAP or ODBC data source and transforms for Business Central—not limited to NAV/GP migrations
+- Extensive integration development connecting Business Central with external financial systems, e-commerce platforms, warehouse management systems, and third-party APIs
+- AppSource application development with modular architecture design for scalability
+- Azure Functions and middleware development for complex system-to-system integrations
+- Azure deployment pipeline automation for Business Central extensions using GitHub Actions and AL-Go
+- Emergency database performance troubleshooting and optimization with understanding of financial data criticality
 
 ## Contact
 
