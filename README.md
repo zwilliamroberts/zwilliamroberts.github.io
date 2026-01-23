@@ -1,6 +1,6 @@
 # Technical Capacity Partner for Business Central MSPs
 
-**White-Label Development | Complex Migrations | Integration Expertise**
+**White-Label Development \| Complex Migrations \| Integration Expertise**
 
 ## The Challenge
 
